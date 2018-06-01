@@ -1,3 +1,3 @@
-"Hello, World!"
-"Michelle Kim"
-"Take a Leap"
+Hello, World!
+Michelle Kim
+Take a Leap
